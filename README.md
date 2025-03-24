@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ninjawarrior81
 - 👀 I’m interested in wearable technology, game development, UX/UI design, powered orthotics.
-- 🌱 I’m currently learning Node-Red
+- 🌱 I’m currently learning Unity Game Development
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me, don't.
 
